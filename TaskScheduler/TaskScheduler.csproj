@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-TaskScheduler-2f7aab57-296d-487d-8aa2-aea0c83c02c1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.28" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.28" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.28" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.28" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.28" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Migrations\" />
+  </ItemGroup>
+
+</Project>

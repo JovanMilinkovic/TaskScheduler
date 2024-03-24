@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\models\\taskticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\models\\taskticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\models\\delegatedtaskticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\models\\delegatedtaskticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\models\\meetingticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\models\\meetingticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|c:\\users\\chico\\source\\repos\\taskscheduler\\taskscheduler\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E5D376-4BBD-479C-AA21-72BDC7BAAE41}|TaskScheduler\\TaskScheduler.csproj|solutionrelative:taskscheduler\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DelegatedTaskTicket.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\DelegatedTaskTicket.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Models\\DelegatedTaskTicket.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\DelegatedTaskTicket.cs",
+              "RelativeToolTip": "TaskScheduler\\Models\\DelegatedTaskTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T01:07:39.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskTicket.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\TaskTicket.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Models\\TaskTicket.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\TaskTicket.cs",
+              "RelativeToolTip": "TaskScheduler\\Models\\TaskTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:59:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TaskScheduler\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:35:21.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Program.cs",
+              "RelativeToolTip": "TaskScheduler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:13:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeetingTicket.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\MeetingTicket.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Models\\MeetingTicket.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\MeetingTicket.cs",
+              "RelativeToolTip": "TaskScheduler\\Models\\MeetingTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:12:24.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskScheduler\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwEsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:51:04.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\User.cs",
+              "RelativeToolTip": "TaskScheduler\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:13:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TaskScheduler\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\chico\\source\\repos\\TaskScheduler\\TaskScheduler\\Models\\Ticket.cs",
+              "RelativeToolTip": "TaskScheduler\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:10:18.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
